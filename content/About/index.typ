@@ -1,7 +1,7 @@
 #import "../index.typ": template, tufted
 #show: template.with(
   title: "关于我",
-  description: "小河 — 游戏策划 / 独立开发者",
+  description: "九箫一剑 — 游戏策划 / 独立开发者",
 )
 
 = 关于我
@@ -12,7 +12,7 @@
   Email: #link("mailto:jiuxiaoyijian@users.noreply.github.com")[点击发送邮件]
 ]
 
-你好！我是小河，一名游戏策划。
+你好！我是九箫一剑，一名游戏策划。
 
 我热爱游戏，也热爱制作游戏。在工作中负责游戏系统设计与关卡策划，业余时间则喜欢自己动手做一些有趣的小项目——把想法变成可以「玩到」的东西，是我最大的乐趣。
 

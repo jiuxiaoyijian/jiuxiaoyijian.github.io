@@ -1,7 +1,7 @@
 #import "../index.typ": template, tufted
 #show: template.with(
   title: "作品展示",
-  description: "小河的游戏项目与 Web 应用作品集",
+  description: "九箫一剑的游戏项目与 Web 应用作品集",
 )
 
 = 作品展示
