@@ -26,6 +26,7 @@
   table.hline(),
   [飞机大战], [经典的 Canvas 飞机射击游戏，支持触屏和鼠标操作], [#link("https://jiuxiaoyijian.github.io/AirplaneWar/")[在线体验]],
   [中午吃啥], [趣味午餐随机抽取系统，抽奖动画 + 海报生成], [#link("https://jiuxiaoyijian.github.io/EatWhat/")[在线体验]],
+  [贪吃蛇], [Godot 引擎制作的经典贪吃蛇游戏，支持历史记录], [#link("https://jiuxiaoyijian.github.io/snake-macbookpro/")[在线体验]],
 )
 
 更多项目详情请访问 #link("/Projects/")[*作品展示*] 页面。

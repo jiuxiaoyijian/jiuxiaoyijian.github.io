@@ -41,6 +41,22 @@
 - *源码*：#link("https://github.com/jiuxiaoyijian/EatWhat")[GitHub]
 - *体验*：#link("https://jiuxiaoyijian.github.io/EatWhat/")[在线试玩]
 
+== 贪吃蛇 (Snake Godot)
+
+#tufted.margin-note[
+  *技术栈* \
+  Godot 4.6 · GDScript · HTML5 导出 \
+  \
+  使用 Godot 引擎开发，通过 Web 导出 + GitHub Actions 自动部署到 GitHub Pages。
+]
+
+经典贪吃蛇游戏的 Godot 引擎实现。简洁的像素风格，支持最高分保存与历史记录。
+
+- *操作*：方向键 / WASD 移动、空格暂停、R 重新开始
+- *特点*：最高分持久化保存、历史记录回顾、Godot Web 导出自动部署
+- *源码*：#link("https://github.com/jiuxiaoyijian/snake-macbookpro")[GitHub]
+- *体验*：#link("https://jiuxiaoyijian.github.io/snake-macbookpro/")[在线试玩]
+
 == 更多项目
 
 持续更新中……欢迎关注我的 #link("https://github.com/jiuxiaoyijian")[GitHub] 获取最新动态。
